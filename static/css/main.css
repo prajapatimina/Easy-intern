@@ -107,7 +107,7 @@ form.form button {
     align-content: left;
     background-color: #eee;
     float: left;
-    background-image: url('img/program.jpg');
+    background-image: url("/static/img/program.jpg");
   	padding-top: -60px;
   	font-weight: bold;
   	color: white;

@@ -7,3 +7,10 @@ def index(request):
 
 def main(request):
     return render(request,"main.html")
+
+def sregister(request):
+    return render(request,"student/sreg.html")
+
+
+def slogin(request):
+    return render(request,"student/slogin.html")
